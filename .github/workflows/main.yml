@@ -2,7 +2,7 @@ name: Update Repository
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every 24 hours
+    - cron: '0 */24 * * *' # Runs every 24 hours
 
 jobs:
   update:

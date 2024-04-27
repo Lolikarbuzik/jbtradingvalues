@@ -1,0 +1,26 @@
+name: Update Repository
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every 24 hours
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Update repository
+      run: |
+        # Your update command here
+        bun . ${{ secrets.PRIVATE_KEY }}
+        
+    - name: Commit and push changes
+      run: |
+        git config user.name "Lolikarbuzik"
+        git config user.email "${{ secrets.MY_EMAIL }}"
+        git add .
+        git commit -m "Automated update"
+        git push

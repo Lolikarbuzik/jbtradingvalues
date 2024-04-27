@@ -1,23 +1,23 @@
-name: Update Repository
+name: Update cached values
 
 on:
   schedule:
-    - cron: '0 */24 * * *' # Runs every 24 hours
+    - cron: "0 */6 * * *"
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-      
-    - name: Update repository
+    - name: "Setup Bun"
+      uses: oven-sh/setup-bun@v1
+
+    - name: "Run parsers"
       run: |
-        # Your update command here
-        bun . ${{ secrets.PRIVATE_KEY }}
-        
-    - name: Commit and push changes
+        bun install
+        bun . "${{ secrets.PRIVATE_KEY }}"
+
+    - name: "Commit changes"
       run: |
         git config user.name "Lolikarbuzik"
         git config user.email "${{ secrets.MY_EMAIL }}"

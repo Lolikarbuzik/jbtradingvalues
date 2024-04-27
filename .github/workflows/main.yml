@@ -1,8 +1,8 @@
 name: Update cached values
 
-# on:
-#   schedule:
-#     - cron: "0 */6 * * *"
+on:
+  schedule:
+    - cron: "59 23 * * *"
 
 jobs:
   update:

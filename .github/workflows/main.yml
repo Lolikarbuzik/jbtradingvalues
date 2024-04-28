@@ -14,6 +14,7 @@ jobs:
 
     - name: "Run parsers"
       run: |
+        bun init
         bun install
         bun . "${{ secrets.PRIVATE_KEY }}"
 

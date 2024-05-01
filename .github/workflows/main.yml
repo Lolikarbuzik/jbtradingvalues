@@ -21,6 +21,7 @@ jobs:
 
     - name: "Commit changes"
       run: |
+        cd jbtradingvalues
         git config user.name "Lolikarbuzik"
         git config user.email "${{ secrets.MY_EMAIL }}"
         git add .

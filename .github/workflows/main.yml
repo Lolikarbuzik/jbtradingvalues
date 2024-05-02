@@ -22,8 +22,7 @@ jobs:
     - name: "Commit changes"
       run: |
         cd jbtradingvalues
-        git config user.name "Lolikarbuzik"
-        git config user.email "${{ secrets.MY_EMAIL }}"
+        git remote add origin https://Lolikarbuzik:${{ secrets.DEF_NOT_MY_PASS }}@github.com/Lolikarbuzik/jbtradingvalues.git
         git add .
         git commit -m "Automated update"
         git push

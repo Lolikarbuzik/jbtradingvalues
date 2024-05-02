@@ -2,32 +2,38 @@
   {
     "name": "Volt Bike",
     "value": 1000000,
-    "demand": "Mid"
+    "demand": "Mid",
+    "category": "Vehicle"
   },
   {
     "name": "Blackhawk",
     "value": 1000000,
-    "demand": "Mid"
+    "demand": "Mid",
+    "category": "Vehicle"
   },
   {
     "name": "Trailblazer",
     "value": 1000000,
-    "demand": "Mid"
+    "demand": "Mid",
+    "category": "Vehicle"
   },
   {
     "name": "Monster",
     "value": 1000000,
-    "demand": "Low"
+    "demand": "Low",
+    "category": "Vehicle"
   },
   {
     "name": "Jet",
     "value": 1000000,
-    "demand": "Mid"
+    "demand": "Mid",
+    "category": "Vehicle"
   },
   {
     "name": "Drone",
     "value": 1000000,
-    "demand": "Mid"
+    "demand": "Mid",
+    "category": "Vehicle"
   },
   {
     "name": "Torpedo",

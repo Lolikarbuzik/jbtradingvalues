@@ -9,33 +9,39 @@ const final: JBItem[] = [
     {
         name: "Volt Bike",
         value: 1_000_000,
-        demand: JBItemDemand.Mid
+        demand: JBItemDemand.Mid,
+        category: JBItemCategory.Vehicle
     },
     {
         name: "Blackhawk",
         value: 1_000_000,
-        demand: JBItemDemand.Mid
+        demand: JBItemDemand.Mid,
+        category: JBItemCategory.Vehicle
     },
     {
         name: "Trailblazer",
         value: 1_000_000,
-        demand: JBItemDemand.Mid
+        demand: JBItemDemand.Mid,
+        category: JBItemCategory.Vehicle
     },
     {
         name: "Monster",
         value: 1_000_000,
-        demand: JBItemDemand.Low
+        demand: JBItemDemand.Low,
+        category: JBItemCategory.Vehicle
     },
     {
         name: "Jet",
         value: 1_000_000,
-        demand: JBItemDemand.Mid
+        demand: JBItemDemand.Mid,
+        category: JBItemCategory.Vehicle
     },
     {
         name: "Drone",
         value: 1_000_000,
-        demand: JBItemDemand.Mid
-    }
+        demand: JBItemDemand.Mid,
+        category: JBItemCategory.Vehicle
+    },
 ];
 
 const SHEET_ID: string = "12aPBmrHP5MLwoht9QcBiERPYUmXTJiTbBF43630togE";
@@ -45,7 +51,7 @@ interface Result {
     values?: string[][]
 }
 
-async function parse(range: string, hyper?: boolean, category: JBItemCategory, format?: (id: string) => string) {
+async function parse(range: string, hyper: boolean, category: JBItemCategory, format?: (id: string) => string) {
     const response_text = await (await fetch(`https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${range}?key=${TOKEN}`)).text();
     const result: Result = JSON.parse(response_text);
     const values = result.values;

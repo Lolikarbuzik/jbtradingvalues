@@ -1,7 +1,7 @@
 //? This script parses the JBTC value list excel
 //? DO NOT RUN THE PARSER SCRIPT IF YOU HAVENT INITIALIZED GOOGLE API KEY INSIDE "secrets.json"
 
-import { JBItemDemand, StrToJBDemand, type JBItem } from "../types";
+import { JBItemCategory, JBItemDemand, StrToJBDemand, type JBItem } from "../types";
 import { writeFileSync } from "node:fs"
 
 
@@ -45,7 +45,7 @@ interface Result {
     values?: string[][]
 }
 
-async function parse(range: string, hyper?: boolean, format?: (id: string) => string) {
+async function parse(range: string, hyper?: boolean, category: JBItemCategory, format?: (id: string) => string) {
     const response_text = await (await fetch(`https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${range}?key=${TOKEN}`)).text();
     const result: Result = JSON.parse(response_text);
     const values = result.values;
@@ -57,7 +57,8 @@ async function parse(range: string, hyper?: boolean, format?: (id: string) => st
                 value: Number(value.replaceAll(",", "")),
                 // duped_value: Number(duped_value.replaceAll(",", "")),
                 demand: StrToJBDemand(duped_value),
-                notes: demand?.trim().length == 0 ? undefined : demand
+                notes: demand?.trim().length == 0 ? undefined : demand,
+                category
             });
         } else {
             final.push({
@@ -65,7 +66,8 @@ async function parse(range: string, hyper?: boolean, format?: (id: string) => st
                 value: Number(value.replaceAll(",", "")),
                 duped_value: Number(duped_value.replaceAll(",", "")),
                 demand: StrToJBDemand(demand),
-                notes: notes?.trim().length == 0 ? undefined : notes
+                notes: notes?.trim().length == 0 ? undefined : notes,
+                category
             });
         }
     })
@@ -77,19 +79,19 @@ async function main() {
         console.log("Token wasnt passed as argv[2]");
         return;
     }
-    await parse("Value List!C20:G67"); // Vehicles
-    await parse("Value List!C71:G120") // Txts/Colors
-    await parse("Value List!C124:G183") // Rims
-    await parse("Value List!C187:G245") // Spoilers
-    await parse("Value List!C249:G267") // Tires/Horns
-    await parse("Value List!C249:G267") // Furniture
-    await parse("Value List!C249:G267") // Gun Skins
+    await parse("Value List!C20:G67", false, JBItemCategory.Vehicle); // Vehicles
+    await parse("Value List!C71:G120", false, JBItemCategory.Texture) // Txts/Colors
+    await parse("Value List!C124:G183", false, JBItemCategory.Rim) // Rims
+    await parse("Value List!C187:G245", false, JBItemCategory.Spoiler) // Spoilers
+    await parse("Value List!C249:G267", false, JBItemCategory.Tires) // Tires/Horns
+    await parse("Value List!C249:G267", false, JBItemCategory.Furniture) // Furniture
+    await parse("Value List!C249:G267", false, JBItemCategory.GunTexture) // Gun Skins
 
     // Hypers
-    await parse("Hyperchromes!C22:F30", true, (n) => `Hyper ${n} Level 5`)
-    await parse("Hyperchromes!C34:F41", true, (n) => `Hyper ${n} Level 4`)
-    await parse("Hyperchromes!C45:E52", true, (n) => `Hyper ${n} Level 3`)
-    await parse("Hyperchromes!C56:E63", true, (n) => `Hyper ${n} Level 2`)
+    await parse("Hyperchromes!C22:F30", true, JBItemCategory.Hyperchrome, (n) => `Hyper ${n} Level 5`)
+    await parse("Hyperchromes!C34:F41", true, JBItemCategory.Hyperchrome, (n) => `Hyper ${n} Level 4`)
+    await parse("Hyperchromes!C45:E52", true, JBItemCategory.Hyperchrome, (n) => `Hyper ${n} Level 3`)
+    await parse("Hyperchromes!C56:E63", true, JBItemCategory.Hyperchrome, (n) => `Hyper ${n} Level 2`)
     // No hyper lvl 1s!!
     writeFileSync("cached/jbtc.json", JSON.stringify(final, null, 2));
     console.log("[JBTC] Saved");

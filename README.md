@@ -33,6 +33,19 @@ interface Item {
 	demand: None | VeryLow | Low | Mid | Decent | High
 	duped_value: number | undefined
 	notes: string | undefined // This is for JBTC notes
+	category:
+		| Vehicle
+		| Color
+		| Tires
+		| Hyperchrome
+		| Texture
+		| GunTexture
+		| VehicleHorn
+		| Spoiler
+		| Rim
+		| Furniture
+		| DriftParticle
+		| Unknown
 	og: string | undefined // Ignore this
 }
 ```

@@ -8,6 +8,21 @@ export enum JBItemDemand {
     VeryHigh = "VeryHigh"
 }
 
+export enum JBItemCategory {
+    Vehicle = "Vehicle",
+    Color = "Color",
+    Tires = "Tires",
+    Hyperchrome = "Hyperchrome",
+    Texture = "Texture",
+    GunTexture = "GunTexture",
+    VehicleHorn = "VehicleHorn",
+    Spoiler = "Spoiler",
+    Rim = "Rim",
+    Furniture = "Furniture",
+    DriftParticle = "DriftParticle",
+    Unknown = "Unknown",
+}
+
 export interface JBDuper {
     name: String;
     item?: String
@@ -20,6 +35,7 @@ export interface JBItem {
     duped_value?: number;
     notes?: string,
     og?: string;
+    category: JBI
 }
 
 export function StrToJBDemand(str: string): JBItemDemand {

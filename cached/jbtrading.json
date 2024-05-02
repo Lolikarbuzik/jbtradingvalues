@@ -3,2286 +3,2667 @@
     "name": "Beam Hybrid",
     "demand": "Decent",
     "duped_value": 20000000,
-    "value": 22500000
+    "value": 22500000,
+    "category": "Vehicle"
   },
   {
     "name": "Crew Capsule",
     "demand": "Decent",
     "duped_value": 7500000,
-    "value": 10000000
+    "value": 10000000,
+    "category": "Vehicle"
   },
   {
     "name": "Volt 4x4",
     "demand": "Decent",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Vehicle"
   },
   {
     "name": "Rattler",
     "demand": "Decent",
     "duped_value": 2500000,
-    "value": 2750000
+    "value": 2750000,
+    "category": "Vehicle"
   },
   {
     "name": "Banana Car",
     "demand": "Mid",
     "duped_value": 14000000,
-    "value": 16000000
+    "value": 16000000,
+    "category": "Vehicle"
   },
   {
     "name": "Beignet",
     "demand": "Decent",
     "duped_value": 20000000,
-    "value": 22500000
+    "value": 22500000,
+    "category": "Vehicle"
   },
   {
     "name": "Icebreaker",
     "demand": "Mid",
     "duped_value": 17500000,
-    "value": 20000000
+    "value": 20000000,
+    "category": "Vehicle"
   },
   {
     "name": "Celsior",
     "demand": "Decent",
     "duped_value": 20000000,
-    "value": 22500000
+    "value": 22500000,
+    "category": "Vehicle"
   },
   {
     "name": "Jack Rabbit",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Macaron",
     "demand": "Mid",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Vehicle"
   },
   {
     "name": "Tiny Toy",
     "demand": "Decent",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Vehicle"
   },
   {
     "name": "Bloxy",
     "demand": "Mid",
     "duped_value": 1000000,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Vehicle"
   },
   {
     "name": "Goliath",
     "demand": "Decent",
     "duped_value": 4000000,
-    "value": 5000000
+    "value": 5000000,
+    "category": "Vehicle"
   },
   {
     "name": "Bandit",
     "demand": "Decent",
     "duped_value": 2500000,
-    "value": 3000000
+    "value": 3000000,
+    "category": "Vehicle"
   },
   {
     "name": "Proto-08",
     "demand": "Decent",
     "duped_value": 15000000,
-    "value": 17500000
+    "value": 17500000,
+    "category": "Vehicle"
   },
   {
     "name": "Shogun",
     "demand": "Decent",
     "duped_value": 2500000,
-    "value": 3000000
+    "value": 3000000,
+    "category": "Vehicle"
   },
   {
     "name": "Poseidon",
     "demand": "VeryLow",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Vehicle"
   },
   {
     "name": "Power-1",
     "demand": "Mid",
     "duped_value": 5000000,
-    "value": 7500000
+    "value": 7500000,
+    "category": "Vehicle"
   },
   {
     "name": "Longhorn",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Frost Crawler",
     "demand": "VeryLow",
     "duped_value": 1000000,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Vehicle"
   },
   {
     "name": "The Striker",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "OG Monster Truck",
     "demand": "Decent",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Vehicle"
   },
   {
     "name": "Torpedo",
     "demand": "Decent",
     "duped_value": 30000000,
-    "value": 32500000
+    "value": 32500000,
+    "category": "Vehicle"
   },
   {
     "name": "Arachnid",
     "demand": "Mid",
     "duped_value": 25000000,
-    "value": 27500000
+    "value": 27500000,
+    "category": "Vehicle"
   },
   {
     "name": "Javelin",
     "demand": "Decent",
     "duped_value": 17500000,
-    "value": 20000000
+    "value": 20000000,
+    "category": "Vehicle"
   },
   {
     "name": "Raptor",
     "demand": "Mid",
     "duped_value": 12500000,
-    "value": 15000000
+    "value": 15000000,
+    "category": "Vehicle"
   },
   {
     "name": "Molten M12",
     "demand": "Decent",
     "duped_value": 6000000,
-    "value": 8000000
+    "value": 8000000,
+    "category": "Vehicle"
   },
   {
     "name": "JB8",
     "demand": "Mid",
     "duped_value": 4000000,
-    "value": 5000000
+    "value": 5000000,
+    "category": "Vehicle"
   },
   {
     "name": "Parisian",
     "demand": "Decent",
     "duped_value": 3000000,
-    "value": 3500000
+    "value": 3500000,
+    "category": "Vehicle"
   },
   {
     "name": "Brulee",
     "demand": "Mid",
     "duped_value": 3000000,
-    "value": 3500000
+    "value": 3500000,
+    "category": "Vehicle"
   },
   {
     "name": "Aperture",
     "demand": "Decent",
     "duped_value": 2500000,
-    "value": 2750000
+    "value": 2750000,
+    "category": "Vehicle"
   },
   {
     "name": "Agent",
     "demand": "VeryLow",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Vehicle"
   },
   {
     "name": "Torero",
     "demand": "Decent",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Vehicle"
   },
   {
     "name": "Carbonara",
     "demand": "Decent",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Vehicle"
   },
   {
     "name": "Concept",
     "demand": "Decent",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Vehicle"
   },
   {
     "name": "Air Tail",
     "demand": "Decent",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Vehicle"
   },
   {
     "name": "Snake",
     "demand": "Decent",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Vehicle"
   },
   {
     "name": "Black Hawk",
     "demand": "Decent",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Drone",
     "demand": "Decent",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Jet Fighter",
     "demand": "Mid",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Megalodon",
     "demand": "Mid",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Monster Truck",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Sloop",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Tank",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Trailblazer",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Volt Bike",
     "demand": "Decent",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Vehicle"
   },
   {
     "name": "Shell Classic",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Vehicle"
   },
   {
     "name": "Crown",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 666000
+    "value": 666000,
+    "category": "Vehicle"
   },
   {
     "name": "Successor58",
     "demand": "Decent",
     "duped_value": null,
-    "value": 649000
+    "value": 649000,
+    "category": "Vehicle"
   },
   {
     "name": "Eclaire",
     "demand": "Decent",
     "duped_value": null,
-    "value": 600000
+    "value": 600000,
+    "category": "Vehicle"
   },
   {
     "name": "Roadster",
     "demand": "Decent",
     "duped_value": null,
-    "value": 600000
+    "value": 600000,
+    "category": "Vehicle"
   },
   {
     "name": "Hammerhead",
     "demand": "Mid",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Vehicle"
   },
   {
     "name": "OG La Matador",
     "demand": "Mid",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Vehicle"
   },
   {
     "name": "UFO",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "Vehicle"
   },
   {
     "name": "Stunt Plane",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 300000
+    "value": 300000,
+    "category": "Vehicle"
   },
   {
     "name": "The XRK",
     "demand": "Decent",
     "duped_value": null,
-    "value": 299000
+    "value": 299000,
+    "category": "Vehicle"
   },
   {
     "name": "Classic",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Vehicle"
   },
   {
     "name": "Laviolette",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Vehicle"
   },
   {
     "name": "Mighty",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Vehicle"
   },
   {
     "name": "NASCAR #75",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Vehicle"
   },
   {
     "name": "Posh",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Vehicle"
   },
   {
     "name": "Sentinel",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 250000
+    "value": 250000,
+    "category": "Vehicle"
   },
   {
     "name": "Speed Yacht",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 250000
+    "value": 250000,
+    "category": "Vehicle"
   },
   {
     "name": "Steed",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Vehicle"
   },
   {
     "name": "SUV",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Vehicle"
   },
   {
     "name": "Desert Crawler",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 229000
+    "value": 229000,
+    "category": "Vehicle"
   },
   {
     "name": "Stallion",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 200000
+    "value": 200000,
+    "category": "Vehicle"
   },
   {
     "name": "Ray 9",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 199000
+    "value": 199000,
+    "category": "Vehicle"
   },
   {
     "name": "Little Bird",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 190000
+    "value": 190000,
+    "category": "Vehicle"
   },
   {
     "name": "Delorean",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 175000
+    "value": 175000,
+    "category": "Vehicle"
   },
   {
     "name": "Firetruck",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 175000
+    "value": 175000,
+    "category": "Vehicle"
   },
   {
     "name": "Falcon S",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 150000
+    "value": 150000,
+    "category": "Vehicle"
   },
   {
     "name": "Prison Bus",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 150000
+    "value": 150000,
+    "category": "Vehicle"
   },
   {
     "name": "Surus",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 109000
+    "value": 109000,
+    "category": "Vehicle"
   },
   {
     "name": "Cybertruck",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Vehicle"
   },
   {
     "name": "Escape Bot",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Vehicle"
   },
   {
     "name": "Fiasco",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Vehicle"
   },
   {
     "name": "La Matador",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Vehicle"
   },
   {
     "name": "Semi Truck",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Vehicle"
   },
   {
     "name": "Blade",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "Camaro",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "Celestial",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "Cruiser",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "Helicopter",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "Lia's Ship",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "MCL36",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "Military Jeep",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "NASCAR",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "NASCAR Free",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "SWAT5an",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Vehicle"
   },
   {
     "name": "Snowstorm",
     "demand": "Mid",
     "duped_value": 4000000,
-    "value": 5000000
+    "value": 5000000,
+    "category": "Texture"
   },
   {
     "name": "Fire Texture",
     "demand": "Mid",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Texture"
   },
   {
     "name": "Vantablack",
     "demand": "Decent",
     "duped_value": 17500000,
-    "value": 20000000
+    "value": 20000000,
+    "category": "Texture"
   },
   {
     "name": "Galactic Carbon",
     "demand": "Mid",
     "duped_value": 3000000,
-    "value": 3500000
+    "value": 3500000,
+    "category": "Texture"
   },
   {
     "name": "Digital Confetti",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Texture"
   },
   {
     "name": "Earthquake",
     "demand": "VeryLow",
     "duped_value": 1500000,
-    "value": 2000000
+    "value": 2000000,
+    "category": "Texture"
   },
   {
     "name": "Drip Texture",
     "demand": "Decent",
     "duped_value": 7500000,
-    "value": 10000000
+    "value": 10000000,
+    "category": "Texture"
   },
   {
     "name": "Crimson Racer",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Texture"
   },
   {
     "name": "Flaming",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Texture"
   },
   {
     "name": "Gulf Texture",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Texture"
   },
   {
     "name": "Black Ice",
     "demand": "Mid",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Texture"
   },
   {
     "name": "Winter Camo",
     "demand": "Mid",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Texture"
   },
   {
     "name": "Circuits",
     "demand": "VeryLow",
     "duped_value": 1000000,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Texture"
   },
   {
     "name": "Old Town Road",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Texture"
   },
   {
     "name": "White Marble",
     "demand": "Mid",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Texture"
   },
   {
     "name": "Superstar",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "Wooden Toy",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "Radar Camo",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "Lava Texture",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "Touchdown",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "Manga Texture",
     "demand": "Decent",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Texture"
   },
   {
     "name": "Aquatic Skin",
     "demand": "Mid",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "Graffiti Skin",
     "demand": "Mid",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "Bandit Skin",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "Aurora Skin",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "Road Hazard",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "OG Ogre Texture",
     "demand": "Mid",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Texture"
   },
   {
     "name": "Checkers",
     "demand": "Mid",
     "duped_value": 25000000,
-    "value": 27500000
+    "value": 27500000,
+    "category": "Texture"
   },
   {
     "name": "Armor Texture",
     "demand": "VeryLow",
     "duped_value": 1500000,
-    "value": 2000000
+    "value": 2000000,
+    "category": "Texture"
   },
   {
     "name": "Blue Pixel",
     "demand": "Mid",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Texture"
   },
   {
     "name": "Gold Color",
     "demand": "Mid",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Texture"
   },
   {
     "name": "Orange Pixel",
     "demand": "Mid",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Texture"
   },
   {
     "name": "Pixel Texture",
     "demand": "Mid",
     "duped_value": 1000000,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Texture"
   },
   {
     "name": "Earth Texture",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Texture"
   },
   {
     "name": "Field Texture",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Texture"
   },
   {
     "name": "Lightning",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Texture"
   },
   {
     "name": "Money Texture",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Texture"
   },
   {
     "name": "Tiger Texture",
     "demand": "Mid",
     "duped_value": 1000000,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Texture"
   },
   {
     "name": "Glowing Yellow",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Texture"
   },
   {
     "name": "Wavy Texture",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Texture"
   },
   {
     "name": "Bacon Texture",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Texture"
   },
   {
     "name": "Hotdog Texture",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Texture"
   },
   {
     "name": "Purple Flame",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 120000
+    "value": 120000,
+    "category": "Texture"
   },
   {
     "name": "ClassicVar1",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Texture"
   },
   {
     "name": "ClassicVar3",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Texture"
   },
   {
     "name": "Lady Bug",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Texture"
   },
   {
     "name": "Peach Texture",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Texture"
   },
   {
     "name": "Carbon Fire",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Texture"
   },
   {
     "name": "Dragon Scales",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Texture"
   },
   {
     "name": "Hyper Blue L1",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Blue L2",
     "demand": "VeryLow",
     "duped_value": 1500000,
-    "value": 2000000
+    "value": 2000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Blue L3",
     "demand": "VeryLow",
     "duped_value": 7500000,
-    "value": 10000000
+    "value": 10000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Blue L4",
     "demand": "Mid",
     "duped_value": 27500000,
-    "value": 30000000
+    "value": 30000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Blue L5",
     "demand": "Decent",
     "duped_value": 30000000,
-    "value": 32500000
+    "value": 32500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Diamond L1",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Diamond L2",
     "demand": "VeryLow",
     "duped_value": 1500000,
-    "value": 2000000
+    "value": 2000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Diamond L3",
     "demand": "VeryLow",
     "duped_value": 7500000,
-    "value": 10000000
+    "value": 10000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Diamond L4",
     "demand": "Mid",
     "duped_value": 25000000,
-    "value": 27500000
+    "value": 27500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Diamond L5",
     "demand": "Decent",
     "duped_value": 27500000,
-    "value": 30000000
+    "value": 30000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Green L1",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Green L2",
     "demand": "VeryLow",
     "duped_value": 1500000,
-    "value": 2000000
+    "value": 2000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Green L3",
     "demand": "VeryLow",
     "duped_value": 5000000,
-    "value": 7500000
+    "value": 7500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Green L4",
     "demand": "VeryLow",
     "duped_value": 25000000,
-    "value": 27500000
+    "value": 27500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Green L5",
     "demand": "Mid",
     "duped_value": 27500000,
-    "value": 30000000
+    "value": 30000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Orange L1",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Orange L2",
     "demand": "VeryLow",
     "duped_value": 1000000,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Orange L3",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Orange L4",
     "demand": "VeryLow",
     "duped_value": 17500000,
-    "value": 20000000
+    "value": 20000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Orange L5",
     "demand": "Mid",
     "duped_value": 20000000,
-    "value": 22500000
+    "value": 22500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Pink L1",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Pink L2",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Pink L3",
     "demand": "VeryLow",
     "duped_value": 5000000,
-    "value": 7500000
+    "value": 7500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Pink L4",
     "demand": "VeryLow",
     "duped_value": 25000000,
-    "value": 27500000
+    "value": 27500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Pink L5",
     "demand": "Mid",
     "duped_value": 27500000,
-    "value": 30000000
+    "value": 30000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Purple L1",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Purple L2",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Purple L3",
     "demand": "VeryLow",
     "duped_value": 5000000,
-    "value": 7500000
+    "value": 7500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Purple L4",
     "demand": "VeryLow",
     "duped_value": 22500000,
-    "value": 25000000
+    "value": 25000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Purple L5",
     "demand": "Mid",
     "duped_value": 25000000,
-    "value": 27500000
+    "value": 27500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Red L1",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Red L2",
     "demand": "VeryLow",
     "duped_value": 1500000,
-    "value": 2000000
+    "value": 2000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Red L3",
     "demand": "VeryLow",
     "duped_value": 7500000,
-    "value": 10000000
+    "value": 10000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Red L4",
     "demand": "VeryLow",
     "duped_value": 27500000,
-    "value": 30000000
+    "value": 30000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Red L5",
     "demand": "Mid",
     "duped_value": 30000000,
-    "value": 32500000
+    "value": 32500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Yellow L1",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Yellow L2",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Yellow L3",
     "demand": "VeryLow",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Yellow L4",
     "demand": "VeryLow",
     "duped_value": 15000000,
-    "value": 17500000
+    "value": 17500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Yellow L5",
     "demand": "VeryLow",
     "duped_value": 15000000,
-    "value": 17500000
+    "value": 17500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Shift L4",
     "demand": "VeryLow",
     "duped_value": 150000000,
-    "value": 175000000
+    "value": 175000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Hyper Shift L5",
     "demand": "Mid",
     "duped_value": 175000000,
-    "value": 225000000
+    "value": 225000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Vantablack",
     "demand": "Decent",
     "duped_value": 17500000,
-    "value": 20000000
+    "value": 20000000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Gold Color",
     "demand": "Mid",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Radiant Ice",
     "demand": "Decent",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Radiant Orange",
     "demand": "Mid",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Radiant Yellow",
     "demand": "Mid",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Radiant Green",
     "demand": "Mid",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Radiant Purple",
     "demand": "Mid",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Fall Chrome",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Radiant Red",
     "demand": "Mid",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Dark Purple",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Hyperchrome"
   },
   {
     "name": "Star Wings",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Spoiler"
   },
   {
     "name": "Rocket Thrusters",
     "demand": "VeryLow",
     "duped_value": 22500000,
-    "value": 25000000
+    "value": 25000000,
+    "category": "Spoiler"
   },
   {
     "name": "Volt Wings",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Spoiler"
   },
   {
     "name": "Deathtrap",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Tiki Torch",
     "demand": "VeryLow",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Spoiler"
   },
   {
     "name": "Clickbait",
     "demand": "VeryLow",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Spoiler"
   },
   {
     "name": "Tuner Spoiler",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Velocity",
     "demand": "VeryLow",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Spoiler"
   },
   {
     "name": "JDM Wing",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Spoiler"
   },
   {
     "name": "Winter Log",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Snow Shovel",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Spoiler"
   },
   {
     "name": "Overdrive",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Spoiler"
   },
   {
     "name": "Mecha Arm",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Spoiler"
   },
   {
     "name": "Travel Case",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Spoiler"
   },
   {
     "name": "Glider Wing",
     "demand": "VeryLow",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Spoiler"
   },
   {
     "name": "Bike Rack",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Spoiler"
   },
   {
     "name": "Trophy Wings",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Spoiler"
   },
   {
     "name": "Cash Spitter",
     "demand": "Decent",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Spoiler"
   },
   {
     "name": "Remote Control",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Water Gun",
     "demand": "Mid",
     "duped_value": 1000000,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Spoiler"
   },
   {
     "name": "Jetpack Spoiler",
     "demand": "VeryLow",
     "duped_value": 1000000,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Spoiler"
   },
   {
     "name": "Turning Key",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Tank Wing",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Spoiler"
   },
   {
     "name": "Afterburner",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Spoiler"
   },
   {
     "name": "Deathray",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Spoiler"
   },
   {
     "name": "Flamethrower",
     "demand": "VeryLow",
     "duped_value": 1000000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Spoiler"
   },
   {
     "name": "Do You Lift",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Spoiler"
   },
   {
     "name": "Endurance",
     "demand": "Mid",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Spoiler"
   },
   {
     "name": "Torii Gate",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Spoiler"
   },
   {
     "name": "Lantern Wing",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Surfboard",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Spoiler"
   },
   {
     "name": "Shell Speaker",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Spoiler"
   },
   {
     "name": "Italy Colors",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Leaning Wings",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "Windmill",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "Bull Horns",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Snow Cannon",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Spoiler"
   },
   {
     "name": "Animated Sawblades",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Spoiler"
   },
   {
     "name": "Flaming Skull",
     "demand": "Mid",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "OG Fuel Thrusters",
     "demand": "Decent",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Glider Shop Wing",
     "demand": "Decent",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "2 Billion",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Spoiler"
   },
   {
     "name": "5 Star Spoiler",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Spoiler"
   },
   {
     "name": "Brickset Spoiler",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Spoiler"
   },
   {
     "name": "Eight Leg",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Spoiler"
   },
   {
     "name": "Dual Rockets",
     "demand": "Mid",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Spoiler"
   },
   {
     "name": "Dual Flags",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Spoiler"
   },
   {
     "name": "Spare Spoiler",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Spoiler"
   },
   {
     "name": "Blue Chute",
     "demand": "Mid",
     "duped_value": 1000000,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Spoiler"
   },
   {
     "name": "UFO Spoiler",
     "demand": "Mid",
     "duped_value": 1000000,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Spoiler"
   },
   {
     "name": "3 Billion",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Spoiler"
   },
   {
     "name": "Live Glider",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Spoiler"
   },
   {
     "name": "Orange Chute",
     "demand": "Mid",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Spoiler"
   },
   {
     "name": "Triple Fin",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Spoiler"
   },
   {
     "name": "Robowing",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Sail Spoiler",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Spoiler"
   },
   {
     "name": "Laser Wire",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Spoiler"
   },
   {
     "name": "5 Flags Spoiler",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "Dinosaur Bone",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "Dragon Breath",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "Harpoon Wing",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "King Spoiler",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "Meteor Magnet",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "Tesla Spoiler",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "Trouble Wing",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Spoiler"
   },
   {
     "name": "Bull Rims",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Rim"
   },
   {
     "name": "Void Rims",
     "demand": "VeryLow",
     "duped_value": 20000000,
-    "value": 22500000
+    "value": 22500000,
+    "category": "Rim"
   },
   {
     "name": "Planet Rims",
     "demand": "VeryLow",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Rim"
   },
   {
     "name": "Compass Rims",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Rim"
   },
   {
     "name": "RTX Rims",
     "demand": "Mid",
     "duped_value": 15000000,
-    "value": 17500000
+    "value": 17500000,
+    "category": "Rim"
   },
   {
     "name": "Retro Racer",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Rim"
   },
   {
     "name": "Center Lock",
     "demand": "VeryLow",
     "duped_value": 1500000,
-    "value": 2000000
+    "value": 2000000,
+    "category": "Rim"
   },
   {
     "name": "Icicle Rims",
     "demand": "Mid",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Rim"
   },
   {
     "name": "Snow Face",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Rim"
   },
   {
     "name": "Trion Rims",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "Ionize Rims",
     "demand": "Mid",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Rim"
   },
   {
     "name": "Energy Rims",
     "demand": "Mid",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Rim"
   },
   {
     "name": "Iron Rock Rims",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Rim"
   },
   {
     "name": "Beadlock Rims",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Rim"
   },
   {
     "name": "Roll-X Clock",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Rim"
   },
   {
     "name": "Diamond Steel",
     "demand": "Mid",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Rim"
   },
   {
     "name": "Teddy Bear",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "Track Toy",
     "demand": "Decent",
     "duped_value": 1500000,
-    "value": 2000000
+    "value": 2000000,
+    "category": "Rim"
   },
   {
     "name": "Scope Rims",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "Radar Rims",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Rim"
   },
   {
     "name": "Unknown Signal",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "Laser Cannon",
     "demand": "Decent",
     "duped_value": 6000000,
-    "value": 7000000
+    "value": 7000000,
+    "category": "Rim"
   },
   {
     "name": "Sawblade",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "Baller Rims",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Rim"
   },
   {
     "name": "Fore Rims",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Rim"
   },
   {
     "name": "Stance Rims",
     "demand": "Mid",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Rim"
   },
   {
     "name": "Sakura Rims",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Rim"
   },
   {
     "name": "Volleyball Rims",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Ducky Float",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Rim"
   },
   {
     "name": "Beachball",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Waffle Rims",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Heritage Rims",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "Cloverleaf",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Rim"
   },
   {
     "name": "Gunfire Rims",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Tumbleweed",
     "demand": "VeryLow",
     "duped_value": 250000,
-    "value": 500000
+    "value": 500000,
+    "category": "Rim"
   },
   {
     "name": "Wagon Rims",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Rim"
   },
   {
     "name": "Marshmallow",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Peppermint",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Frostburn",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "Biohazard",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Road Warrior",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Handcuff Chain",
     "demand": "Mid",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "Spinner Rims",
     "demand": "VeryLow",
     "duped_value": 12500000,
-    "value": 15000000
+    "value": 15000000,
+    "category": "Rim"
   },
   {
     "name": "Brickset Rims",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Rim"
   },
   {
     "name": "Hypno Rims",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Rim"
   },
   {
     "name": "Snowflake",
     "demand": "VeryLow",
     "duped_value": 3000000,
-    "value": 4000000
+    "value": 4000000,
+    "category": "Rim"
   },
   {
     "name": "Blue Eye Rims",
     "demand": "VeryLow",
     "duped_value": 2000000,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Rim"
   },
   {
     "name": "Distorted Rims",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Rim"
   },
   {
     "name": "Nemesis Rims",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Rim"
   },
   {
     "name": "Red Eye Rims",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Rim"
   },
   {
     "name": "Spider Leg",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Rim"
   },
   {
     "name": "Star Badge",
     "demand": "VeryLow",
     "duped_value": 1250000,
-    "value": 1500000
+    "value": 1500000,
+    "category": "Rim"
   },
   {
     "name": "Soccer Rims",
     "demand": "VeryLow",
     "duped_value": 750000,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Rim"
   },
   {
     "name": "Live 2020 Rims",
     "demand": "VeryLow",
     "duped_value": 500000,
-    "value": 750000
+    "value": 750000,
+    "category": "Rim"
   },
   {
     "name": "Bonded Rims",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "Piggy Rims",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "Tesseract Rims",
     "demand": "VeryLow",
     "duped_value": 100000,
-    "value": 250000
+    "value": 250000,
+    "category": "Rim"
   },
   {
     "name": "4 Billion Rims",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Dino Rims",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Electrostatic",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Radioactive",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Ship Wheel",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Star Rims",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Vault Door",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Rim"
   },
   {
     "name": "Live 2024 Rims",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "Rim"
   },
   {
     "name": "Camaro Bed",
     "demand": "Mid",
     "duped_value": null,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Furniture"
   },
   {
     "name": "RGB Wall Lights",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Furniture"
   },
   {
     "name": "Trapped Bookshelf",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Furniture"
   },
   {
     "name": "Tiger Skin Rug",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Furniture"
   },
   {
     "name": "Sarcophagus Bed",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Furniture"
   },
   {
     "name": "Gamer Chair",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Furniture"
   },
   {
     "name": "Trophy Case",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "Furniture"
   },
   {
     "name": "Noob Scream",
     "demand": "Mid",
     "duped_value": null,
-    "value": 3000000
+    "value": 3000000,
+    "category": "Furniture"
   },
   {
     "name": "Racecar Bed",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 750000
+    "value": 750000,
+    "category": "Furniture"
   },
   {
     "name": "Simulator Rig",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Furniture"
   },
   {
     "name": "Vehicle Pool Table",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 250000
+    "value": 250000,
+    "category": "Furniture"
   },
   {
     "name": "Hot Chocolate Tub",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Furniture"
   },
   {
     "name": "Air Hockey Table",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Furniture"
   },
   {
     "name": "Teleport Chambers",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 1250000
+    "value": 1250000,
+    "category": "Furniture"
   },
   {
     "name": "Sci-fi Kitchen",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 2500000
+    "value": 2500000,
+    "category": "Furniture"
   },
   {
     "name": "Picnic Table",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 750000
+    "value": 750000,
+    "category": "Furniture"
   },
   {
     "name": "Fame Star Rug",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 750000
+    "value": 750000,
+    "category": "Furniture"
   },
   {
     "name": "Royal Throne",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 750000
+    "value": 750000,
+    "category": "Furniture"
   },
   {
     "name": "Puzzle Couch",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 750000
+    "value": 750000,
+    "category": "Furniture"
   },
   {
     "name": "Missile Bed",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "Furniture"
   },
   {
     "name": "Nukamo Fridge",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 250000
+    "value": 250000,
+    "category": "Furniture"
   },
   {
     "name": "Hero Zapper",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 250000
+    "value": 250000,
+    "category": "Furniture"
   },
   {
     "name": "Cryo Chamber",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "Furniture"
   },
   {
     "name": "Foosball Table",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 250000
+    "value": 250000,
+    "category": "Furniture"
   },
   {
     "name": "Basketball Arcade",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "Furniture"
   },
   {
     "name": "Sakura Tree",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 250000
+    "value": 250000,
+    "category": "Furniture"
   },
   {
     "name": "Neon Sign",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 250000
+    "value": 250000,
+    "category": "Furniture"
   },
   {
     "name": "Beach Hammock",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Furniture"
   },
   {
     "name": "Tiki Bar",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Furniture"
   },
   {
     "name": "London Booth Sofa",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Furniture"
   },
   {
     "name": "Croissant Sofa",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Furniture"
   },
   {
     "name": "The Old Wagon",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Furniture"
   },
   {
     "name": "OG Snow Machine",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Furniture"
   },
   {
     "name": "OG Giant Snowman",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Furniture"
   },
   {
     "name": "Bloxy Lisa",
     "demand": "Mid",
     "duped_value": null,
-    "value": 1000000
+    "value": 1000000,
+    "category": "Furniture"
   },
   {
     "name": "Gun Rack",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "Furniture"
   },
   {
     "name": "Super Star Rug",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 250000
+    "value": 250000,
+    "category": "Furniture"
   },
   {
     "name": "Snowstorm Skin",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 1250000
+    "value": 1250000,
+    "category": "GunTexture"
   },
   {
     "name": "Fire Gun Skin",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 1250000
+    "value": 1250000,
+    "category": "GunTexture"
   },
   {
     "name": "Galactic Gun Skin",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 750000
+    "value": 750000,
+    "category": "GunTexture"
   },
   {
     "name": "Confetti Gun Skin",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 250000
+    "value": 250000,
+    "category": "GunTexture"
   },
   {
     "name": "Earthquake Skin",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "GunTexture"
   },
   {
     "name": "Drip Gun Skin",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 5000000
+    "value": 5000000,
+    "category": "GunTexture"
   },
   {
     "name": "Flaming Gun Skin",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 750000
+    "value": 750000,
+    "category": "GunTexture"
   },
   {
     "name": "Black Ice Gun Skin",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "GunTexture"
   },
   {
     "name": "Circuits Gun Skin",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 1250000
+    "value": 1250000,
+    "category": "GunTexture"
   },
   {
     "name": "White Marble Gun Skin",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "GunTexture"
   },
   {
     "name": "Champion",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "VehicleHorn"
   },
   {
     "name": "Cucaracha",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 1000000
+    "value": 1000000,
+    "category": "VehicleHorn"
   },
   {
     "name": "Injan Horn",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "VehicleHorn"
   },
   {
     "name": "Winner Horn",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "VehicleHorn"
   },
   {
     "name": "Aurora Drift",
     "demand": "Mid",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "DriftParticle"
   },
   {
     "name": "Sparks Drift",
     "demand": "Mid",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "DriftParticle"
   },
   {
     "name": "OG Rocket Fuel",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 500000
+    "value": 500000,
+    "category": "DriftParticle"
   },
   {
     "name": "Lightning",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 400000
+    "value": 400000,
+    "category": "DriftParticle"
   },
   {
     "name": "Flamethrower",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 300000
+    "value": 300000,
+    "category": "DriftParticle"
   },
   {
     "name": "Magic Purple",
     "demand": "VeryLow",
     "duped_value": null,
-    "value": 100000
+    "value": 100000,
+    "category": "DriftParticle"
   },
   {
     "name": "Blue Fire",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "DriftParticle"
   },
   {
     "name": "Brickset",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "DriftParticle"
   },
   {
     "name": "Gradient Pixel",
     "demand": "None",
     "duped_value": null,
-    "value": null
+    "value": null,
+    "category": "DriftParticle"
   }
 ]

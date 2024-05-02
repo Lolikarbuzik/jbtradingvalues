@@ -49,10 +49,14 @@ async function jbvalues() {
 }
 
 async function main() {
+    console.log("[DUPES] Running JBTrading...");
     await jbtrading();
+    console.log("[DUPES] Finised previous running JBValues...");
     await jbvalues();
+    console.log("[DUPES] Finished running all parsers...");
 
     writeFileSync("cached/dupers.json", JSON.stringify(all_dupers, null, 2));
+    console.log("[DUPES] Finished writing to file...");
 }
 
 main()

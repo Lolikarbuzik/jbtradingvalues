@@ -2,1886 +2,1888 @@
   {
     "name": "Volt Bike",
     "value": 1000000,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Blackhawk",
     "value": 1000000,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Trailblazer",
     "value": 1000000,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Monster",
     "value": 1000000,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Jet",
     "value": 1000000,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Drone",
     "value": 1000000,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Torpedo",
-    "value": 25000000,
-    "duped_value": 22500000,
-    "demand": 4,
-    "notes": "Recovering"
+    "value": 30000000,
+    "duped_value": 25000000,
+    "demand": "Mid",
+    "notes": "Rising"
   },
   {
     "name": "Arachnid",
     "value": 25000000,
     "duped_value": 22500000,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Celsior",
-    "value": 24000000,
+    "value": 22500000,
     "duped_value": null,
-    "demand": 5,
-    "notes": "Rising in demand"
+    "demand": "Mid"
   },
   {
     "name": "Beam Hybrid",
     "value": 22500000,
     "duped_value": 20000000,
-    "demand": 4,
+    "demand": "High",
     "notes": "Rising in demand"
   },
   {
     "name": "Beignet",
     "value": 22500000,
     "duped_value": null,
-    "demand": 4
+    "demand": "Decent",
+    "notes": "Rising "
   },
   {
     "name": "Icebreaker",
-    "value": 21500000,
+    "value": 20000000,
     "duped_value": null,
-    "demand": 3
+    "demand": "Low"
   },
   {
     "name": "Javelin",
-    "value": 19000000,
+    "value": 20000000,
     "duped_value": null,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Proto-08",
-    "value": 17500000,
+    "value": 16000000,
     "duped_value": null,
-    "demand": 4
+    "demand": "Decent"
   },
   {
     "name": "Banana car",
     "value": 16000000,
     "duped_value": null,
-    "demand": 3,
+    "demand": "Low",
     "notes": "Gets lowballed "
   },
   {
     "name": "Raptor",
     "value": 15000000,
     "duped_value": null,
-    "demand": 2,
-    "notes": "Gets lowballed due to demand"
-  },
-  {
-    "name": "Power 1",
-    "value": 8500000,
-    "duped_value": null,
-    "demand": 3
+    "demand": "Low"
   },
   {
     "name": "Crew Capsule",
     "value": 8500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "M12",
     "value": 7000000,
     "duped_value": null,
-    "demand": 5
+    "demand": "High",
+    "notes": "Rising in demand"
+  },
+  {
+    "name": "Power 1",
+    "value": 7000000,
+    "duped_value": null,
+    "demand": "Mid",
+    "notes": "Gets Lowballed"
   },
   {
     "name": "Goliath",
     "value": 5000000,
     "duped_value": null,
-    "demand": 5,
+    "demand": "Decent",
     "notes": "High demand, gets overpays"
   },
   {
     "name": "Jb8",
     "value": 5000000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Volt 4x4",
     "value": 4500000,
     "duped_value": null,
-    "demand": 4
+    "demand": "Decent"
   },
   {
     "name": "Macaron",
     "value": 4000000,
     "duped_value": null,
-    "demand": 4
+    "demand": "Decent"
   },
   {
     "name": "Parisian",
     "value": 3500000,
     "duped_value": null,
-    "demand": 5
+    "demand": "High"
   },
   {
     "name": "Shogun",
     "value": 3500000,
     "duped_value": null,
-    "demand": 5
+    "demand": "High"
   },
   {
     "name": "Brulee",
     "value": 3500000,
     "duped_value": null,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Does not pull full value in good demand, expect underpays."
   },
   {
     "name": "Bandit",
     "value": 2750000,
     "duped_value": null,
-    "demand": 4
+    "demand": "Decent"
   },
   {
     "name": "Aperture",
     "value": 2500000,
     "duped_value": null,
-    "demand": 5,
+    "demand": "High",
     "notes": "Best 2,5m car in the game"
   },
   {
     "name": "Rattler",
     "value": 2500000,
     "duped_value": null,
-    "demand": 3,
+    "demand": "Mid",
     "notes": "Very rare to find"
   },
   {
     "name": "Concept",
     "value": 2500000,
     "duped_value": null,
-    "demand": 3
+    "demand": "Low"
   },
   {
     "name": "Torero",
     "value": 2500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Carbonara",
     "value": 2500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Poseidon",
     "value": 2500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Agent",
     "value": 2500000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Snake",
     "value": 1500000,
     "duped_value": null,
-    "demand": 4
+    "demand": "Decent"
   },
   {
     "name": "Tiny Toy",
     "value": 1500000,
     "duped_value": null,
-    "demand": 4
+    "demand": "Decent"
   },
   {
     "name": "Airtail",
     "value": 1500000,
     "duped_value": null,
-    "demand": 4
+    "demand": "Decent"
   },
   {
     "name": "Bloxy",
     "value": 1250000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Striker",
     "value": 1250000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Frost Crawler",
     "value": 1250000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Longhorn",
     "value": 1125000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Jackrabbit",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Megalodon",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Shell classic",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Posh",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Hammerhead",
     "value": 300000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Nascar 75th",
     "value": 300000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Laviolette",
     "value": 250000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Steed",
     "value": 200000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Suv",
     "value": 200000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Classic",
     "value": 200000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Mighty",
     "value": 150000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Escape Bot",
     "value": 100000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Fiasco",
     "value": 100000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Checker",
     "value": 30000000,
     "duped_value": null,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Vantablack",
-    "value": 18500000,
+    "value": 19000000,
     "duped_value": null,
-    "demand": 4,
+    "demand": "High",
     "notes": "Can get OP from collectors"
   },
   {
     "name": "Drip",
     "value": 10000000,
     "duped_value": null,
-    "demand": 5,
+    "demand": "VeryHigh",
     "notes": "Can pull overpays often"
   },
   {
     "name": "Snowstorm",
     "value": 4500000,
     "duped_value": null,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets lowballed"
   },
   {
     "name": "Galactic carbon",
-    "value": 4000000,
+    "value": 3500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Fire",
-    "value": 3500000,
+    "value": 3000000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Blue Pixel",
     "value": 2500000,
     "duped_value": null,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Winter Camo",
     "value": 2500000,
     "duped_value": null,
-    "demand": 3
-  },
-  {
-    "name": "Black Ice",
-    "value": 2000000,
-    "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Gold",
     "value": 1500000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
+  },
+  {
+    "name": "Black Ice",
+    "value": 1500000,
+    "duped_value": null,
+    "demand": "Low"
   },
   {
     "name": "Orange pixel",
     "value": 1500000,
     "duped_value": null,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Armor",
     "value": 1500000,
     "duped_value": null,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Usually recieves underpay"
   },
   {
     "name": "Earthquake",
     "value": 1500000,
     "duped_value": null,
-    "demand": 2,
+    "demand": "VeryLow",
     "notes": "Very rare, but low demanded "
   },
   {
     "name": "Pixel",
     "value": 1250000,
     "duped_value": null,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Used for upgrading value"
   },
   {
     "name": "Manga",
     "value": 1000000,
     "duped_value": null,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Radiant Ice",
     "value": 1000000,
     "duped_value": null,
-    "demand": 3
+    "demand": "Mid"
   },
   {
     "name": "Crimson Racer",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Old Town Road",
     "value": 1000000,
     "duped_value": null,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Very rare but very low demand."
   },
   {
     "name": "Tiger",
     "value": 1000000,
     "duped_value": null,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Also known as KreekCraft's texture."
   },
   {
     "name": "Field",
     "value": 800000,
     "duped_value": null,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Also very rare but very low demand"
   },
   {
     "name": "Earth",
     "value": 800000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Lightning",
     "value": 800000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hotdog",
     "value": 800000,
     "duped_value": null,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "A bit rare but trash demand."
   },
   {
     "name": "Wavy",
     "value": 800000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Digital Confetti",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Berlin Graffiti Skin",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "White marble",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Road Hazard",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Superstar",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Bacon",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Radiant Orange",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
-  },
-  {
-    "name": "Money",
-    "value": 500000,
-    "duped_value": null,
-    "demand": 1,
-    "notes": "Terrible demand.Usually lowballed"
+    "demand": "Low"
   },
   {
     "name": "Glowing yellow",
     "value": 500000,
     "duped_value": null,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Also known as NapkinNate's texture."
   },
   {
     "name": "Flaming",
     "value": 400000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Circuits",
     "value": 400000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Radiant Yellow",
     "value": 350000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
+  },
+  {
+    "name": "Money",
+    "value": 300000,
+    "duped_value": null,
+    "demand": "VeryLow",
+    "notes": "Terrible demand.Usually lowballed"
   },
   {
     "name": "Radar camo",
     "value": 300000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Liquid Lava",
     "value": 300000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Aquatic",
     "value": 300000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Aurora",
     "value": 300000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Bandana",
     "value": 300000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Gulf",
     "value": 300000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Radiant Purple",
     "value": 250000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Radiant Green",
     "value": 250000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Radiant Red",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "Low"
   },
   {
     "name": "Radiant Pink",
     "value": 150000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Touchdown",
     "value": 100000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Wooden toy",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Fall chrome",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Darkest purple",
     "value": 50000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Void",
     "value": 22500000,
     "duped_value": 20000000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Demand and value dropping"
   },
   {
     "name": "Spinner",
     "value": 16500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "RTX",
     "value": 16000000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Laser Cannon",
-    "value": 6500000,
+    "value": 7000000,
     "duped_value": null,
-    "demand": 5,
+    "demand": "VeryHigh",
     "notes": "Gets overpays"
   },
   {
     "name": "Icicle",
     "value": 4500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Snowface",
-    "value": 3500000,
+    "value": 3000000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Brickset",
-    "value": 3500000,
+    "value": 3000000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Snowflake",
     "value": 3000000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hypno",
     "value": 3000000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Planetary",
     "value": 2500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Ionize",
     "value": 2500000,
     "duped_value": null,
-    "demand": 2,
-    "notes": "Usually an unknown value due to its bad demand"
+    "demand": "Low",
+    "notes": "Pretty rare"
   },
   {
     "name": "Blue Eyes",
-    "value": 2000000,
+    "value": 1250000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Spider Leg",
-    "value": 1500000,
+    "value": 1250000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Star Badge",
-    "value": 1500000,
+    "value": 1250000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Red Eyes",
-    "value": 1500000,
-    "duped_value": null,
-    "demand": 1
-  },
-  {
-    "name": "Track Toy",
     "value": 1250000,
     "duped_value": null,
-    "demand": 3
+    "demand": "VeryLow"
   },
   {
     "name": "Stance",
     "value": 1250000,
     "duped_value": null,
-    "demand": 3
+    "demand": "Mid",
+    "notes": "Receives 1,5m by itself"
+  },
+  {
+    "name": "Track Toy",
+    "value": 1250000,
+    "duped_value": null,
+    "demand": "Mid",
+    "notes": "Pulls 1,5m"
   },
   {
     "name": "Energized",
     "value": 1250000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Diamond Engrave",
     "value": 1250000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Center lock",
-    "value": 1250000,
-    "duped_value": null,
-    "demand": 2
-  },
-  {
-    "name": "Bull",
     "value": 1000000,
     "duped_value": null,
-    "demand": 1
-  },
-  {
-    "name": "Iron Rock",
-    "value": 1000000,
-    "duped_value": null,
-    "demand": 1
-  },
-  {
-    "name": "Nemesis",
-    "value": 1000000,
-    "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Soccer",
     "value": 1000000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
+  },
+  {
+    "name": "Iron Rock",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": "VeryLow"
   },
   {
     "name": "Distorted",
     "value": 1000000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
+  },
+  {
+    "name": "Nemesis",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": "VeryLow"
+  },
+  {
+    "name": "Bull",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": "VeryLow"
   },
   {
     "name": "Sakura",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Radar",
     "value": 600000,
     "duped_value": null,
-    "demand": 2
-  },
-  {
-    "name": "Euro Cloverleaf Rims",
-    "value": 500000,
-    "duped_value": null,
-    "demand": 1
+    "demand": "Low"
   },
   {
     "name": "Frostburn",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
+  },
+  {
+    "name": "Euro Cloverleaf Rims",
+    "value": 500000,
+    "duped_value": null,
+    "demand": "VeryLow"
   },
   {
     "name": "Wagon",
     "value": 500000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Fore!",
     "value": 500000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Beadlock",
     "value": 500000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Ducky Float",
     "value": 500000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Live2020",
     "value": 500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "B-ball",
     "value": 400000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Compass",
     "value": 400000,
     "duped_value": null,
-    "demand": 1
-  },
-  {
-    "name": "Bonded rim",
-    "value": 400000,
-    "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Roll-x",
     "value": 400000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
+  },
+  {
+    "name": "Bonded rim",
+    "value": 400000,
+    "duped_value": null,
+    "demand": "VeryLow"
   },
   {
     "name": "Tesseract",
     "value": 300000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Sawblade",
     "value": 300000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Retro racer rims",
     "value": 300000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Piggy",
     "value": 300000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Road Warrior",
     "value": 300000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Trion",
     "value": 300000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Uk Heritage Rims",
     "value": 250000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Biohazard",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Scope",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Unknown signal",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Belgian Waffle Rims",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Peppermint",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Spinny Beachball",
     "value": 150000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Volleyball",
     "value": 150000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Revolver Rims",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Teddy bear",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Shipwheel",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Marshmallow",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Daytona",
     "value": 75000,
     "duped_value": null,
-    "demand": 0,
+    "demand": "VeryLow",
     "notes": "Extremely hard to find"
   },
   {
     "name": "Propeller",
     "value": 75000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Rally",
     "value": 50000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Electrostatic",
     "value": 50000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Thrusters",
     "value": 25000000,
     "duped_value": 25000000,
-    "demand": 2,
-    "notes": "Losing demand"
+    "demand": "Low"
   },
   {
     "name": "Brickset",
-    "value": 4000000,
+    "value": 3000000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Volt Wing",
     "value": 3750000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "2 Billion/2B",
-    "value": 3500000,
+    "value": 3000000,
     "duped_value": null,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Expect extreme underpay"
   },
   {
     "name": "Snow Shovel",
     "value": 3000000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Bicycle/Bike Rack",
     "value": 3000000,
     "duped_value": null,
-    "demand": 2
-  },
-  {
-    "name": "5star",
-    "value": 3000000,
-    "duped_value": null,
-    "demand": 0
+    "demand": "Low"
   },
   {
     "name": "Eightleg",
-    "value": 2750000,
+    "value": 2500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Cash Spitter",
     "value": 2500000,
     "duped_value": null,
-    "demand": 4
+    "demand": "Decent"
   },
   {
     "name": "Velocity",
     "value": 2500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Dual Rockets",
     "value": 2500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Clickbait",
     "value": 2500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
+  },
+  {
+    "name": "5star",
+    "value": 2500000,
+    "duped_value": null,
+    "demand": "VeryLow"
   },
   {
     "name": "Tiki Torch",
     "value": 1500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Ufo spoiler",
     "value": 1250000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Glider wing",
     "value": 1250000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Blue chute",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2
-  },
-  {
-    "name": "Spare",
-    "value": 1000000,
-    "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Mecha",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2
-  },
-  {
-    "name": "Dual Flags",
-    "value": 1000000,
-    "duped_value": null,
-    "demand": 1
-  },
-  {
-    "name": "Jdm",
-    "value": 1000000,
-    "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Water gun",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
+  },
+  {
+    "name": "Dual Flags",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": "VeryLow"
+  },
+  {
+    "name": "Jdm",
+    "value": 1000000,
+    "duped_value": null,
+    "demand": "Low"
   },
   {
     "name": "Jetpack",
     "value": 800000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Afterburner",
     "value": 800000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Triple Fin",
     "value": 800000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
+  },
+  {
+    "name": "Spare",
+    "value": 600000,
+    "duped_value": null,
+    "demand": "Low"
   },
   {
     "name": "Endurance Wing",
     "value": 600000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Flamethrower",
     "value": 600000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Death ray",
     "value": 600000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Colors Of Italy",
     "value": 600000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Turning Key",
     "value": 600000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Shell Speakers",
     "value": 600000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Overdrive",
     "value": 600000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Antenna",
     "value": 600000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Orange chute",
     "value": 600000,
     "duped_value": null,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "3 Billion",
     "value": 600000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Deathtrap",
     "value": 600000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Robowing",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Tuner",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Star Wings",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Do you lift?",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Snow log",
     "value": 400000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Travel Case",
     "value": 400000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Live Glider",
     "value": 400000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Surfboard racks",
     "value": 300000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Lantern wing",
     "value": 300000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Animated Sawblades",
     "value": 300000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Snow Cannon",
     "value": 250000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Sail Wing",
     "value": 250000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Bull Spoiler",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Trophy wing",
     "value": 150000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Torii gate",
     "value": 150000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Wing of Pisa",
     "value": 150000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Windmill",
     "value": 150000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Tank wing",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "T-rex Bone",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Ski Wing",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Scythe Wing",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Aerial Wings",
     "value": 75000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Native ",
     "value": 75000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Terminator ",
     "value": 50000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Blue50 Tire",
-    "value": 4000000,
+    "value": 2500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Red50 Tire",
     "value": 1500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Japanese/Reshingu Tire",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Can pull 1ms"
   },
   {
     "name": "Cucaracha Horn",
     "value": 800000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Road Spike Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Snowchain Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "BlueS3 Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "RedS3 Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "3 Billion/3B Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Lightning Tire",
     "value": 400000,
     "duped_value": null,
-    "demand": 2
+    "demand": "VeryLow"
   },
   {
     "name": "Winner Horn",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Army Tire",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Buoy Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Kanagawa Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Tokyo Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Champion Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Champion Horn",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "FlagOfEurope Tire",
     "value": 50000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Nascar 75th Tire",
     "value": 50000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Blue50 Tire",
-    "value": 4000000,
+    "value": 2500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Red50 Tire",
     "value": 1500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Japanese/Reshingu Tire",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Can pull 1ms"
   },
   {
     "name": "Cucaracha Horn",
     "value": 800000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Road Spike Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Snowchain Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "BlueS3 Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "RedS3 Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "3 Billion/3B Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Lightning Tire",
     "value": 400000,
     "duped_value": null,
-    "demand": 2
+    "demand": "VeryLow"
   },
   {
     "name": "Winner Horn",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Army Tire",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Buoy Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Kanagawa Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Tokyo Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Champion Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Champion Horn",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "FlagOfEurope Tire",
     "value": 50000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Nascar 75th Tire",
     "value": 50000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Blue50 Tire",
-    "value": 4000000,
+    "value": 2500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Red50 Tire",
     "value": 1500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Japanese/Reshingu Tire",
     "value": 1000000,
     "duped_value": null,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Can pull 1ms"
   },
   {
     "name": "Cucaracha Horn",
     "value": 800000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Road Spike Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Snowchain Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "BlueS3 Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "RedS3 Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "3 Billion/3B Tire",
     "value": 500000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Lightning Tire",
     "value": 400000,
     "duped_value": null,
-    "demand": 2
+    "demand": "VeryLow"
   },
   {
     "name": "Winner Horn",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Army Tire",
     "value": 200000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Buoy Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Kanagawa Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Tokyo Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Champion Tire",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Champion Horn",
     "value": 100000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "FlagOfEurope Tire",
     "value": 50000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Nascar 75th Tire",
     "value": 50000,
     "duped_value": null,
-    "demand": 0
+    "demand": "VeryLow"
   },
   {
     "name": "Hypershift",
     "value": 175000000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets lowballed"
   },
   {
     "name": "Hyper Blue Level V",
     "value": 27500000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets lowballs"
   },
   {
     "name": "Hyper Red Level V",
     "value": 24000000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets lowballed"
   },
   {
     "name": "Hyper Pink Level V",
     "value": 22500000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets lowballs"
   },
   {
     "name": "Hyper Diamond Level V",
     "value": 22500000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets lowballed"
   },
   {
     "name": "Hyper Green Level V",
     "value": 22500000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets lowballs"
   },
   {
     "name": "Hyper Purple Level V",
     "value": 18500000,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Gets lowballs"
   },
   {
     "name": "Hyper Orange Level V",
     "value": 17000000,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Gets lowballs"
   },
   {
     "name": "Hyper Yellow Level V",
     "value": 16000000,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Gets lowballed"
   },
   {
     "name": "Hyper Blue Level IV",
     "value": 28000000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets lowballs"
   },
   {
     "name": "Hyper Red Level IV",
     "value": 25000000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets lowballs"
   },
   {
     "name": "Hyper Green Level IV",
     "value": 23500000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets major lowballs"
   },
   {
     "name": "Hyper Pink Level IV",
     "value": 22500000,
-    "demand": 2
+    "demand": "Low"
   },
   {
     "name": "Hyper Diamond Level IV",
     "value": 22500000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "No OP"
   },
   {
     "name": "Hyper Purple Level IV",
     "value": 18500000,
-    "demand": 2,
+    "demand": "Low",
     "notes": "Gets lowball/mid demand"
   },
   {
     "name": "Hyper Orange Level IV",
     "value": 17000000,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Gets lowballs"
   },
   {
     "name": "Hyper Yellow Level IV",
     "value": 15000000,
-    "demand": 1,
+    "demand": "VeryLow",
     "notes": "Gets lowballs"
   },
   {
     "name": "Hyper Blue Level III",
     "value": 18000000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Red Level III",
     "value": 16000000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Green Level III",
     "value": 13500000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Pink Level III",
     "value": 7500000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Diamond Level III",
     "value": 7500000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Purple Level III",
     "value": 6500000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Orange Level III",
     "value": 5000000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Yellow Level III",
     "value": 4000000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Blue Level II",
-    "value": 3000000,
-    "demand": 1
+    "value": 2500000,
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Red Level II",
-    "value": 2500000,
-    "demand": 1
+    "value": 2250000,
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Green Level II",
-    "value": 2500000,
-    "demand": 1
+    "value": 2250000,
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Pink Level II",
     "value": 1500000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Diamond Level II",
     "value": 1500000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Purple Level II",
     "value": 1500000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Orange Level II",
     "value": 1000000,
-    "demand": 1
+    "demand": "VeryLow"
   },
   {
     "name": "Hyper Yellow Level II",
     "value": 750000,
-    "demand": 1
+    "demand": "VeryLow"
   }
 ]

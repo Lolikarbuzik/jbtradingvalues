@@ -1,33 +1,16 @@
 export enum JBItemDemand {
-    None,
-    Very_Low,
-    Low,
-    Mid,
-    Decent,
-    High,
+    None = "None",
+    VeryLow = "VeryLow",
+    Low = "Low",
+    Mid = "Mid",
+    Decent = "Decent",
+    High = "High",
+    VeryHigh = "VeryHigh"
 }
 
 export interface JBDuper {
     name: String;
     item?: String
-}
-
-export const DemandTostr = {
-    [JBItemDemand.None]: "Unknown",
-    [JBItemDemand.Very_Low]: "Very low",
-    [JBItemDemand.Low]: "Low",
-    [JBItemDemand.Mid]: "Mid",
-    [JBItemDemand.Decent]: "Decent",
-    [JBItemDemand.High]: "High",
-}
-
-export const DemandToValMul = {
-    [JBItemDemand.None]: 1.0,
-    [JBItemDemand.Very_Low]: 0.86,
-    [JBItemDemand.Low]: 0.9,
-    [JBItemDemand.Mid]: 0.95,
-    [JBItemDemand.Decent]: 1.0,
-    [JBItemDemand.High]: 1.2
 }
 
 export interface JBItem {
@@ -40,26 +23,35 @@ export interface JBItem {
 }
 
 export function StrToJBDemand(str: string): JBItemDemand {
-    switch (str) {
-        case "Extremely Low":
-            return JBItemDemand.Very_Low;
-        case "Below Average":
+    switch (str.toLowerCase()) {
+        case "extremely low":
+            return JBItemDemand.VeryLow;
+        case "below average":
             return JBItemDemand.Mid;
-        case "Very Low":
-            return JBItemDemand.Very_Low;
-        case "Low":
+        case "very low":
+            return JBItemDemand.VeryLow;
+        case "low":
             return JBItemDemand.Low;
-        case "Decent":
+        case "lecent":
             return JBItemDemand.Decent;
-        case "Mainly Average":
+        case "mainly average":
             return JBItemDemand.Decent;
-        case "Above Average":
+        case "above average":
             return JBItemDemand.Decent;
-        case "Mid":
+        case "decent":
+            return JBItemDemand.Decent;
+        case "mid":
             return JBItemDemand.Mid;
-        case "High":
+        case "high":
             return JBItemDemand.High;
+        case "very high":
+            return JBItemDemand.VeryHigh
+        case "close to none":
+            return JBItemDemand.VeryLow;
+        case "unavailable item":
+            return JBItemDemand.None;
         default:
+            console.error(`Error parsing demand: ${str}`);
             return JBItemDemand.None;
     }
 }

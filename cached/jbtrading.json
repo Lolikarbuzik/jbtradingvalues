@@ -553,83 +553,6 @@
     "category": "Vehicle"
   },
   {
-    "name": "Blade",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
-    "name": "Camaro",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
-    "name": "Celestial",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
-    "name": "Cruiser",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
-    "name": "Helicopter",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
-    "name": "Lia's Ship",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
-    "name": "MCL36",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
-    "name": "Military Jeep",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
-    "name": "NASCAR",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
-    "name": "NASCAR Free",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
-    "name": "SWAT5an",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Vehicle"
-  },
-  {
     "name": "Snowstorm",
     "demand": "Mid",
     "duped_value": 4000000,
@@ -2240,13 +2163,6 @@
     "category": "Rim"
   },
   {
-    "name": "Live 2024 Rims",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "Rim"
-  },
-  {
     "name": "Camaro Bed",
     "demand": "Mid",
     "duped_value": null,
@@ -2590,13 +2506,6 @@
     "category": "VehicleHorn"
   },
   {
-    "name": "Injan Horn",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "VehicleHorn"
-  },
-  {
     "name": "Winner Horn",
     "demand": "VeryLow",
     "duped_value": null,
@@ -2643,27 +2552,6 @@
     "demand": "VeryLow",
     "duped_value": null,
     "value": 100000,
-    "category": "DriftParticle"
-  },
-  {
-    "name": "Blue Fire",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "DriftParticle"
-  },
-  {
-    "name": "Brickset",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
-    "category": "DriftParticle"
-  },
-  {
-    "name": "Gradient Pixel",
-    "demand": "None",
-    "duped_value": null,
-    "value": null,
     "category": "DriftParticle"
   }
 ]

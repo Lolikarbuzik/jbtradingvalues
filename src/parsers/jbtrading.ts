@@ -29,6 +29,7 @@ async function check(section: string, category: JBItemCategory) {
         const duped_value = Number(texts[6].replace("Duped Item Value: ⚠️", "").replaceAll(",", "").replace("$", ""));
         const value = Number(texts[7].replace("JailbreakTrading.net: 💸 ", "").replace("FREE!", "").replaceAll(",", "").replace("$", ""));
         if (value < MIN_VALUE) return;
+        if (!Number.isInteger(value)) return;
         final.push({
             name,
             demand,

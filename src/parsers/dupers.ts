@@ -34,12 +34,7 @@ async function jbvalues() {
         for (const duper of duper_names[duped_items]) {
             const item = item_data[duped_items].name
                 .replace("Hyper", "Hyper ")
-                .replace("L", "Level ")
-                .replace("5", "V")
-                .replace("4", "IV")
-                .replace("3", "III")
-                .replace("2", "II")
-                .replace("1", "I");
+                .replace("L", "Level ");
             all_dupers.push({
                 name: duper,
                 item

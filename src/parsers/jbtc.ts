@@ -86,10 +86,10 @@ async function main() {
     await parse("Value List!C249:G267") // Gun Skins
 
     // Hypers
-    await parse("Hyperchromes!C22:F30", true, (n) => `Hyper ${n} Level V`)
-    await parse("Hyperchromes!C34:F41", true, (n) => `Hyper ${n} Level IV`)
-    await parse("Hyperchromes!C45:E52", true, (n) => `Hyper ${n} Level III`)
-    await parse("Hyperchromes!C56:E63", true, (n) => `Hyper ${n} Level II`)
+    await parse("Hyperchromes!C22:F30", true, (n) => `Hyper ${n} Level 5`)
+    await parse("Hyperchromes!C34:F41", true, (n) => `Hyper ${n} Level 4`)
+    await parse("Hyperchromes!C45:E52", true, (n) => `Hyper ${n} Level 3`)
+    await parse("Hyperchromes!C56:E63", true, (n) => `Hyper ${n} Level 2`)
     // No hyper lvl 1s!!
     writeFileSync("cached/jbtc.json", JSON.stringify(final, null, 2));
     console.log("[JBTC] Saved");

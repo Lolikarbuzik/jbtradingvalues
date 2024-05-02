@@ -1712,177 +1712,177 @@
     "notes": "Gets lowballed"
   },
   {
-    "name": "Hyper Blue Level V",
+    "name": "Hyper Blue Level 5",
     "value": 27500000,
     "demand": "Low",
     "notes": "Gets lowballs"
   },
   {
-    "name": "Hyper Red Level V",
+    "name": "Hyper Red Level 5",
     "value": 24000000,
     "demand": "Low",
     "notes": "Gets lowballed"
   },
   {
-    "name": "Hyper Pink Level V",
+    "name": "Hyper Pink Level 5",
     "value": 22500000,
     "demand": "Low",
     "notes": "Gets lowballs"
   },
   {
-    "name": "Hyper Diamond Level V",
+    "name": "Hyper Diamond Level 5",
     "value": 22500000,
     "demand": "Low",
     "notes": "Gets lowballed"
   },
   {
-    "name": "Hyper Green Level V",
+    "name": "Hyper Green Level 5",
     "value": 22500000,
     "demand": "Low",
     "notes": "Gets lowballs"
   },
   {
-    "name": "Hyper Purple Level V",
+    "name": "Hyper Purple Level 5",
     "value": 18500000,
     "demand": "VeryLow",
     "notes": "Gets lowballs"
   },
   {
-    "name": "Hyper Orange Level V",
+    "name": "Hyper Orange Level 5",
     "value": 17000000,
     "demand": "VeryLow",
     "notes": "Gets lowballs"
   },
   {
-    "name": "Hyper Yellow Level V",
+    "name": "Hyper Yellow Level 5",
     "value": 16000000,
     "demand": "VeryLow",
     "notes": "Gets lowballed"
   },
   {
-    "name": "Hyper Blue Level IV",
+    "name": "Hyper Blue Level 4",
     "value": 28000000,
     "demand": "Low",
     "notes": "Gets lowballs"
   },
   {
-    "name": "Hyper Red Level IV",
+    "name": "Hyper Red Level 4",
     "value": 25000000,
     "demand": "Low",
     "notes": "Gets lowballs"
   },
   {
-    "name": "Hyper Green Level IV",
+    "name": "Hyper Green Level 4",
     "value": 23500000,
     "demand": "Low",
     "notes": "Gets major lowballs"
   },
   {
-    "name": "Hyper Pink Level IV",
+    "name": "Hyper Pink Level 4",
     "value": 22500000,
     "demand": "Low"
   },
   {
-    "name": "Hyper Diamond Level IV",
+    "name": "Hyper Diamond Level 4",
     "value": 22500000,
     "demand": "Low",
     "notes": "No OP"
   },
   {
-    "name": "Hyper Purple Level IV",
+    "name": "Hyper Purple Level 4",
     "value": 18500000,
     "demand": "Low",
     "notes": "Gets lowball/mid demand"
   },
   {
-    "name": "Hyper Orange Level IV",
+    "name": "Hyper Orange Level 4",
     "value": 17000000,
     "demand": "VeryLow",
     "notes": "Gets lowballs"
   },
   {
-    "name": "Hyper Yellow Level IV",
+    "name": "Hyper Yellow Level 4",
     "value": 15000000,
     "demand": "VeryLow",
     "notes": "Gets lowballs"
   },
   {
-    "name": "Hyper Blue Level III",
+    "name": "Hyper Blue Level 3",
     "value": 18000000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Red Level III",
+    "name": "Hyper Red Level 3",
     "value": 16000000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Green Level III",
+    "name": "Hyper Green Level 3",
     "value": 13500000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Pink Level III",
+    "name": "Hyper Pink Level 3",
     "value": 7500000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Diamond Level III",
+    "name": "Hyper Diamond Level 3",
     "value": 7500000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Purple Level III",
+    "name": "Hyper Purple Level 3",
     "value": 6500000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Orange Level III",
+    "name": "Hyper Orange Level 3",
     "value": 5000000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Yellow Level III",
+    "name": "Hyper Yellow Level 3",
     "value": 4000000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Blue Level II",
+    "name": "Hyper Blue Level 2",
     "value": 2500000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Red Level II",
+    "name": "Hyper Red Level 2",
     "value": 2250000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Green Level II",
+    "name": "Hyper Green Level 2",
     "value": 2250000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Pink Level II",
+    "name": "Hyper Pink Level 2",
     "value": 1500000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Diamond Level II",
+    "name": "Hyper Diamond Level 2",
     "value": 1500000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Purple Level II",
+    "name": "Hyper Purple Level 2",
     "value": 1500000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Orange Level II",
+    "name": "Hyper Orange Level 2",
     "value": 1000000,
     "demand": "VeryLow"
   },
   {
-    "name": "Hyper Yellow Level II",
+    "name": "Hyper Yellow Level 2",
     "value": 750000,
     "demand": "VeryLow"
   }

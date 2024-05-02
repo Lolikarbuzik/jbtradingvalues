@@ -2,7 +2,7 @@ name: Update cached values
 
 on:
   schedule:
-    - cron: "59 23 * * *"
+    - cron: "* 2 * * *"
 
 jobs:
   update:

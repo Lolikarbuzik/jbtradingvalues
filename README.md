@@ -2,7 +2,7 @@
 
 easy way to access multiple value lists should update every 2h
 
-i will probably add jbvalues support soon ( i know they have an api )
+i will maybe probably add jbvalues support soon ( i know they have an api )
 
 ## Data types
 

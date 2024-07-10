@@ -35,11 +35,11 @@ export interface JBItem {
     duped_value?: number;
     notes?: string,
     og?: string;
-    category: JBI
+    category: JBItemCategory
 }
 
 export function StrToJBDemand(str: string): JBItemDemand {
-    switch (str.toLowerCase()) {
+    switch (str.toLowerCase().trim()) {
         case "extremely low":
             return JBItemDemand.VeryLow;
         case "below average":
@@ -62,6 +62,7 @@ export function StrToJBDemand(str: string): JBItemDemand {
             return JBItemDemand.High;
         case "very high":
             return JBItemDemand.VeryHigh
+        case "close to none.":
         case "close to none":
             return JBItemDemand.VeryLow;
         case "unavailable item":

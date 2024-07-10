@@ -67,6 +67,9 @@ async function parse(range: string, hyper: boolean, category: JBItemCategory, fo
                 category
             });
         } else {
+            if (id.includes("Drift")) {
+                category = JBItemCategory.DriftParticle;
+            }
             final.push({
                 name: id,
                 value: Number(value.replaceAll(",", "")),
@@ -85,13 +88,13 @@ async function main() {
         console.log("Token wasnt passed as argv[2]");
         return;
     }
-    await parse("Value List!C20:G67", false, JBItemCategory.Vehicle); // Vehicles
-    await parse("Value List!C71:G120", false, JBItemCategory.Texture) // Txts/Colors
-    await parse("Value List!C124:G183", false, JBItemCategory.Rim) // Rims
-    await parse("Value List!C187:G245", false, JBItemCategory.Spoiler) // Spoilers
-    await parse("Value List!C249:G267", false, JBItemCategory.Tires) // Tires/Horns
-    await parse("Value List!C249:G267", false, JBItemCategory.Furniture) // Furniture
-    await parse("Value List!C249:G267", false, JBItemCategory.GunTexture) // Gun Skins
+    await parse("Value List!C20:G69", false, JBItemCategory.Vehicle); // Vehicles
+    await parse("Value List!C73:G123", false, JBItemCategory.Texture) // Txts/Colors
+    await parse("Value List!C127:G186", false, JBItemCategory.Rim) // Rims
+    await parse("Value List!C190:G249", false, JBItemCategory.Spoiler) // Spoilers
+    await parse("Value List!C253:G272", false, JBItemCategory.Tires) // Tires/Horns
+    await parse("Value List!C276:G313", false, JBItemCategory.Furniture) // Furniture
+    await parse("Value List!C317:G328", false, JBItemCategory.GunTexture) // Gun Skins / drifts
 
     // Hypers
     await parse("Hyperchromes!C22:F30", true, JBItemCategory.Hyperchrome, (n) => `Hyper ${n} Level 5`)

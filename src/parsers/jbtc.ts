@@ -1,6 +1,7 @@
 //? This script parses the JBTC value list excel
 //? DO NOT RUN THE PARSER SCRIPT IF YOU HAVENT INITIALIZED GOOGLE API KEY INSIDE "secrets.json"
 
+import { domainToUnicode } from "node:url";
 import { JBItemCategory, JBItemDemand, StrToJBDemand, type JBItem } from "../types";
 import { writeFileSync } from "node:fs"
 
@@ -56,14 +57,14 @@ async function parse(range: string, hyper: boolean, category: JBItemCategory, fo
     const result: Result = JSON.parse(response_text);
     const values = result.values;
     values?.forEach(([id, value, duped_value, demand, notes]) => {
-        // console.log(id, value, duped_value, demand, notes);
+        if (!value) return;
         if (hyper && format) {
             final.push({
                 name: id.trim() !== "Hypershift" ? format(id) : "Hypershift",
                 value: Number(value.replaceAll(",", "")),
-                // duped_value: Number(duped_value.replaceAll(",", "")),
-                demand: StrToJBDemand(duped_value),
-                notes: demand?.trim().length == 0 ? undefined : demand,
+                duped_value: Number(duped_value.replaceAll(",", "")),
+                demand: StrToJBDemand(demand || ""),
+                notes: notes?.trim().length == 0 ? undefined : demand,
                 category
             });
         } else {
@@ -88,13 +89,13 @@ async function main() {
         console.log("Token wasnt passed as argv[2]");
         return;
     }
-    await parse("Value List!C20:G69", false, JBItemCategory.Vehicle); // Vehicles
-    await parse("Value List!C73:G123", false, JBItemCategory.Texture) // Txts/Colors
-    await parse("Value List!C127:G186", false, JBItemCategory.Rim) // Rims
-    await parse("Value List!C190:G249", false, JBItemCategory.Spoiler) // Spoilers
-    await parse("Value List!C253:G272", false, JBItemCategory.Tires) // Tires/Horns
-    await parse("Value List!C276:G313", false, JBItemCategory.Furniture) // Furniture
-    await parse("Value List!C317:G328", false, JBItemCategory.GunTexture) // Gun Skins / drifts
+    await parse("Value List!C20:G74", false, JBItemCategory.Vehicle); // Vehicles
+    await parse("Value List!C78:G132", false, JBItemCategory.Texture) // Txts/Colors
+    await parse("Value List!C136:G206", false, JBItemCategory.Rim) // Rims
+    await parse("Value List!C210:G277", false, JBItemCategory.Spoiler) // Spoilers
+    await parse("Value List!C281:G302", false, JBItemCategory.Tires) // Tires/Horns
+    await parse("Value List!C306:G348", false, JBItemCategory.Furniture) // Furniture
+    await parse("Value List!C352:G367", false, JBItemCategory.GunTexture) // Gun Skins / drifts
 
     // Hypers
     await parse("Hyperchromes!C22:F30", true, JBItemCategory.Hyperchrome, (n) => `Hyper ${n} Level 5`)
